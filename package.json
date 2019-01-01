@@ -1,0 +1,12 @@
+{
+  "name": "build support",
+  "version": "0.1",
+  "description": "Give user best build for each ship and strategy",
+  "main": "bot.js",
+  "author": "fatguy",
+  "dependencies": {
+    "discord.io": "^2.5.3",
+    "discord.js": "^11.4.2",
+    "winston": "^3.1.0"
+  }
+}
